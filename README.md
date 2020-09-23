@@ -1,4 +1,4 @@
-![turbofish](images/turbofish8.jpg)
+![turbofish](images/turbofish8_2.jpg)
 
 ### Hi there
 My name is Benoy John
