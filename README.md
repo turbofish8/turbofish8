@@ -4,6 +4,9 @@ Hello!
 
 My name is **Benoy John**.
 <br>
+<br>
+<br>
+
 I am trying to learn **Rust** programming language along with networking and cloud computing.
 
 I will also try to learn more of Python, Jenkins, RabbitMQ and Linux on the side.
@@ -16,8 +19,11 @@ Fun facts:
 * I attempt to learn ukulele, guitar and tin whistle when I can.
 
 <br>
-Thank you for visiting!!
+**Thank you for visiting!!** :wave:
 
+<br>
+<br>
+<br>
 <br>
 <br>
 Here's the summarized version :
