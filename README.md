@@ -1,5 +1,8 @@
 ![turbofish](images/turbofish8_2.jpg)
 
+![profile](images/profile.jpg)
+
+
 ### Hi there
 My name is Benoy John
 
