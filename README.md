@@ -1,29 +1,19 @@
 ![turbofish](images/turbofish8_2.jpg)
 
+Hello! 
+My name is Benoy John.
+
+I am trying to learn Rust programming language along with networking and cloud computing.
+I will also try to learn more of Python, Jenkins, RabbitMQ and Linux on the side.
+
+You can reach me at turbofish8@gmail.com
+
+Fun facts: 
+I am an absolute novice at DnD and lead a group of some more novices as their DM. We have started of with the basic 5e edition and have literally no idea what we are doing.
+I attempt to learn ukulele, guitar and tin whistle when I can.
+
+
+
 ![profile](images/profile2.jpg)
 
 
-### Hi there
-My name is Benoy John
-
-- 🌱 I’m currently learning Rust programming
-- 🤔 I’m looking for help with netowrking, rust, cloud
-- 📫 How to reach me: turbofish8@gmail.com
-- :camera: @christmashermit
-- 😄 Pronouns: he, his
-- ⚡ Fun fact: Absolute beginner at DnD. Got the 5e starter pack and started out enthusiastically with a bunch of other novice DnDers. I am their DM and I have no idea what I'm doing! Learning a bit every time I suppose.
-
-<!--
-**turbofish8/turbofish8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
