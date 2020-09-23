@@ -1,6 +1,6 @@
 ![turbofish](images/turbofish8_2.jpg)
 
-![profile](images/profile.jpg)
+![profile](images/profile2.jpg)
 
 
 ### Hi there
