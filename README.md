@@ -1,11 +1,13 @@
 ![turbofish](images/turbofish8_2.jpg)
 
+:beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner:
+
 Hello! 
 
 My name is **Benoy John**.
+<br>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:tropical_fish: 
 <br>
-<br>
-<br>
+
 
 I am trying to learn **Rust** programming language along with networking and cloud computing.
 
