@@ -1,11 +1,12 @@
 ![turbofish](images/turbofish8_2.jpg)
 
-:beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner:
+:beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner::beginner:
 
 Hello! 
 
 My name is **Benoy John**.
-<br>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:tropical_fish: 
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:tropical_fish: 
 <br>
 
 
@@ -18,7 +19,7 @@ I will also try to learn more of Python, Jenkins, RabbitMQ and Linux on the side
 
 You can reach me at turbofish8@gmail.com
 
-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octopus:
 <br>
 
 
@@ -30,7 +31,8 @@ Fun facts:
 <br>
 
 **Thank you for visiting!!**  
-:wave:
+:ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::ocean::crab::ocean::ocean::ocean:
+
 
 <br>
 <br>
